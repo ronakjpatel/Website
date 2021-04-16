@@ -1,4 +1,4 @@
-baseURL = "https://rjpatel.github.io/"
+baseURL = ""
 languageCode = "en-us"
 title = "Rj Patel Portfolio"
 paginate = 6
