@@ -1,12 +1,11 @@
 ---
 enable: true
-topTitle: Hello, I am Ronak
+topTitle: Hello, I am Ronak Patel
 content: >
-  # I am here for your personal business
+  # Passionate Data Enthusiast
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Committed to fuel up the future by DATA   
+buttonName: Contact Me 
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
