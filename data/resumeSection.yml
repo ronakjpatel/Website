@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: My  
 title: >
   ## My Expertises
 
@@ -15,25 +15,20 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Bachelor of Computer Science (Data Science)
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+    time: 2017-2019
   - content: >
-      #### Master in Arts
+      #### Diploma in Computer Science
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+    time: 2013-2016
   - content: >
-      #### Master in Arts
+      #### Schooling
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+    time: 2002-2012
 
 experience:
   - content: >

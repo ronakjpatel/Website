@@ -2,12 +2,13 @@
 title: "Markdown Formatting Demo"
 date: 2020-09-13T12:49:27+06:00
 featureImage: images/allpost/allPost-6.jpg
-postImage: images/single-blog/feature-image.jpg
+postImage: images/projects_imgs/feature-image.jpg
 ---
-
+<link href="style.css" rel="stylesheet"></link> 
 This example Markdown file compliments of [markdown-it.github.io](https://markdown-it.github.io/)
 
 ---
+
 
 # h1 Heading 8-)
 ## h2 Heading
@@ -118,19 +119,10 @@ console.log(foo(5));
 
 ## Tables
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Default Header | Left Align | Right Align | Center Align |
+| -------------- | :--------- | ----------: | :----------: |
 
-Right aligned columns
 
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
 
 
 ## Links
@@ -146,17 +138,17 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 (note: redacted this section cause images were too big)
 
-<!-- 
-![Minion](https://octodex.github.com/images/minion.png)
+ 
+![IMAGE](https://octodex.github.com/images/minion.pg)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 Like links, Images also have a footnote style syntax
 
-![Alt text][id]
+![klfkfkdfkd][id]
 
 With a reference later in the document defining the URL location:
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat" -->
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat" 
 
 
 ## Plugins
