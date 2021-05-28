@@ -1,4 +1,4 @@
-baseURL = "nifty-johnson-3c6fae.netlify.app"
+baseURL = "https://nifty-johnson-3c6fae.netlify.app"
 languageCode = "en-us"
 title = "Rj Patel Portfolio"
 paginate = 6
