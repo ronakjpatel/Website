@@ -2,7 +2,7 @@
 title: Exploratory data analysis (Introductory)
 date: 2019-05-25T12:49:27.000+06:00
 thumbnail: images/portfolio/EDA_img.png
-service: R language
+Code and Resources Used: R language
 client: Devansi Patel
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
@@ -16,4 +16,4 @@ solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonu
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
 
 ---
-
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.

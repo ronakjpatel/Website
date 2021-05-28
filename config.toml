@@ -58,11 +58,6 @@ email = "rjpatel7991@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(61) 434 727 393"
 
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
