@@ -1,7 +1,7 @@
 ---
-title: Event Study
-date: 2020-08-12T18:07:16.000+06:00
-thumbnail: images/portfolio/portfolio-2.png
+title: Web Scraper
+date: 
+thumbnail: images/portfolio/scrapper_img.png
 service: Web Design, Branding
 client: Johnathon Doe
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

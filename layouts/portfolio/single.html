@@ -27,27 +27,19 @@
         <div class="case-details-title">
           <h1>{{ .Title }}</h1>
         </div>
-        <p>
-          {{ .Params.shortDescription }}
-        </p>
+       
         <div class="case-details-info">
+          
           <div class="case-details-info-item">
-            <h5 class="text-light">Client</h5>
-            <p>{{ .Params.client }}</p>
-          </div>
-          <div class="case-details-info-item">
-            <h5>Service</h5>
+            <h5>Project's Goal</h5>
             <p>{{ .Params.service }}</p>
           </div>
-          <div class="case-details-info-item">
-            <h5>Date</h5>
-            <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
-          </div>
+
         </div>
         <div class="row mb-5">
           <div class="col-lg-6">
             <div class="case-details-service">
-              <h3>Challenge</h3>
+              <h3>Challenges</h3>
               <p>
                 {{ .Params.challenge }}
               </p>
@@ -55,7 +47,7 @@
           </div>
           <div class="col-lg-6">
             <div class="case-details-service">
-              <h3>Solution</h3>
+              <h3>Final Outcome</h3>
               <p>
                 {{ .Params.solution }}
               </p>
