@@ -1,45 +1,46 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Personality
 title: >
-  ## Creative Services
+  ## Soft Skills
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  I firmly believe that soft skills not only help us to build relationships but also allow us to
+  use our hard skills to their full extent.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Intellectual Curiosity 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/line-chart.png
+    image: images/service/curiosity.png
   - content: >
-      #### Web Development 
+      #### Team Work 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/line_chart.svg
+    image: images/service/teamwork.png
   - content: >
-      #### Creative Design 
+      #### Communication 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+    image: images/service/chat.png
   - content: >
-      #### Branding
+      #### Critical Thinking 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
+    image: images/service/critical_thinking.png
   - content: >
-      #### UI/UX Design
+      #### Problem Solving
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+    image: images/service/problem_solving.png
   - content: >
-      #### Web Development
+      #### Self Learning
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+    image: images/service/self_learning.png
+

@@ -46,7 +46,7 @@ weight = 6
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All Data observed :) © RJ 2020"
+copyright = "All Data observed :) © RJ 2021"
 footerLogo = "images/contact/footer_img.svg"
 footerLogo2 = "images/data.png"
 formspreeURL = "YOUR FORMSPREE URL"
