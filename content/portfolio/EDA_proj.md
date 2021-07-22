@@ -1,19 +1,11 @@
 ---
-title: Exploratory data analysis (Introductory)
-date: 2019-05-25T12:49:27.000+06:00
+title: Exploratory Data Analysis
+date: 
 thumbnail: images/portfolio/EDA_img.png
-Code and Resources Used: R language
-client: Devansi Patel
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor.
-challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-
+service: The main goal of this project is to perform the Exploratory Data Analysis(EDA) on the dataset to deepen my knowledge about the various industry accepted EDA methods.
+solution: I have developed my EDA skills and taken them to the next level along with the R language knowledge. I have gained a comprehension of the advanced machine learning and statistical learning techniques used in typical ML projects.
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+
+##### Please visit the GitHub repository 
+### [GitHub Link ](https://github.com/ronakjpatel/Absenteeism_analysis)
