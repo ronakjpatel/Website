@@ -38,22 +38,15 @@
 
         </div>
         <div class="row mb-5">
-          <div class="col-lg-6">
-            <div class="case-details-service">
-              <h3>Challenges</h3>
-              <p>
-                {{ .Params.challenge }}
-              </p>
-            </div>
-          </div>
-          <div class="col-lg-6">
+
+          
             <div class="case-details-service">
               <h3>Final Outcome</h3>
               <p>
                 {{ .Params.solution }}
               </p>
             </div>
-          </div>
+          
         </div>
         <div class="case-details-thumb mb-5">
           <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
@@ -84,18 +77,19 @@
           <div class="social">
             {{ $url := printf "%s" .Permalink | absLangURL }}
             <ul class="unstyle-list big">
+
               <li>
-                <a href=" https://www.facebook.com/sharer/sharer.php?u={{ $url }}"><i
-                    class="fa fa-facebook-official btn-zoom"></i></a>
-              </li>
-              <li>
-                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}"><i
+                <a href="https://www.linkedin.com/in/ronak-p"><i
                     class="fa fa-linkedin-square btn-zoom"></i></a>
               </li>
               <li>
-                <a href="https://twitter.com/intent/tweet?&url={{ $url }}"><i
-                    class="fa fa-twitter-square btn-zoom"></i></a>
+                <a href="https://github.com/ronakjpatel"><i
+                    class="fa fa-github-square btn-zoom"></i></a>
               </li>
+              <li>
+                  <a href="https://www.facebook.com/profile.php?id=100005741973880"><i
+                      class="fa fa-facebook-official btn-zoom"></i></a>
+                </li>
             </ul>
           </div>
           {{ if .NextInSection }}
