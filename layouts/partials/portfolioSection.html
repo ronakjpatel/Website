@@ -15,7 +15,9 @@
         <div class="portfolio-item-grid">
           {{ range (where $.Site.RegularPages "Type" "portfolio").Reverse }}
           <div class="portfolio-item">
+            <a href="{{ .Permalink }}">
             <img src="{{ .Params.thumbnail }}" class="portfolio-item-thumb" alt="portfolio-thumb" />
+          </a>
             <div class="portfolio-item-content">
              
               <h3 class="mb-0">
