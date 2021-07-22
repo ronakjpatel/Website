@@ -1,8 +1,8 @@
 ---
 enable: true
-topTitle: My  
+topTitle: Academic & Professional Summary
 title: >
-  ## My Expertises
+  ## My Background
 
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
 
@@ -17,17 +17,30 @@ education:
   - content: >
       #### Bachelor of Computer Science (Data Science)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+      • Machine Learning
+      • Artificial Intelligence
+      • Multivariate Analysis
+      • Object-Oriented Programming
+      • Data Mining
+      • Data Structures
+      • Data Visualization
+      • Business Strategy and Knowledge Management
+      • Big-Data Management
+      • Cloud Computing
+      • Networking
+
     time: 2017-2019
   - content: >
       #### Diploma in Computer Science
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+      • C, C++, Java, JavaScript, Assembly Language
+      • Android app development
+      • OS configurations, Computer Hardware and Architecture
     time: 2013-2016
   - content: >
       #### Schooling
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    
     time: 2002-2012
 
 experience:
