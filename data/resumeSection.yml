@@ -18,8 +18,8 @@ title: >
   
 tab1Name: Education
 tab2Name: Experiences
-tab1Target: Education
-tab2Target: Experiences
+tab1Target: education
+tab2Target: experiences
 
 education:
   - content: >
