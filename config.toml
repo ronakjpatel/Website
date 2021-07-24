@@ -33,7 +33,7 @@ url = "#resume"
 weight = 4
 
 [[menu.main]]
-name = "Skills"
+name = "Personality"
 url = "#service"
 weight = 5
 

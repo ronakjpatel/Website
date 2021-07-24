@@ -16,7 +16,8 @@ content: >
   
 
 button1Name: Hire me
-button2Name: Download Resume
+button2Name: See Resume
+button3Name: Download Resume
 button1Target: contact
-button2Target: contact
+button2Target: docs/Ronak_CV.pdf
 image: images/about/MyPic1.png

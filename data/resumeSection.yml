@@ -5,7 +5,7 @@ title: >
   ## My Background 
 
   The notion of how computers can learn from the data and emulate human thinking is what 
-  I have consistently been enthusiastic about.To feed my cravings, I decided to pursue 
+  I have consistently been enthusiastic about. To feed my cravings, I decided to pursue 
   studies in Computer Science with a major in Data Science.
 
 
@@ -18,37 +18,84 @@ title: >
   
 tab1Name: Education
 tab2Name: Experiences
-tab1Target: education
-tab2Target: experience
+tab1Target: Education
+tab2Target: Experiences
 
 education:
   - content: >
       #### Bachelor of Computer Science (Data Science)
 
+      ##### Swinburne University of Technology
+
+
+      ###### Focuses
+
       • Machine Learning
+
+
       • Artificial Intelligence
+
+
       • Multivariate Analysis
+
+
       • Object-Oriented Programming
+
+
       • Data Mining
+
+
       • Data Structures
+
+
       • Data Visualization
+
+
       • Business Strategy and Knowledge Management
+
+
       • Big-Data Management
+
+
       • Cloud Computing
+
+
       • Networking
 
     time: 2017-2019
   - content: >
       #### Diploma in Computer Science
 
-      • C
-      • C++ 
-      • Java 
-      • JavaScript 
-      • Assembly Language
+      ##### Gujarat Technological University
+
+      ###### Focuses
+
+      • C, C++, Java, JavaScript 
+
+
+      • Mobile Computing 
+
+
+      • Database Management System (SQL)
+
+
+      • Dynamic Web Development
+
+
+      • Assembly  Language Programming
+
+
       • Android app development
+
+
       • OS configurations 
+
+
       • Computer Hardware and Architecture
+
+
+      • Fundamentals of Digital Electronics
+
     time: 2013-2016
   - content: >
       #### Schooling

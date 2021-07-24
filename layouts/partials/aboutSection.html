@@ -44,12 +44,13 @@
                             </svg>
                         </div>
                         <div class="mb-4 text-light">
-                            {{ .content | markdownify}}
+                            <span style="text-align: justify">{{ .content | markdownify}} </span>
                         </div>
                         <div>
-                            
-                            <a class="btn btn-outline-primary btn-zoom" href="{{ .button2Target | absURL }}">
-                                {{ .button2Name }} </a>
+                            <a class="btn btn-outline-primary btn-zoom" href="{{ .button2Target | absURL }}" >
+                                        {{ .button2Name }} </a>
+                            <a class="btn btn-outline-primary btn-zoom" download="Ronak_Resume" href="{{ .button2Target | absURL }}" >
+                                {{ .button3Name }} </a>
                         </div>
                     </div>
                 </div>
