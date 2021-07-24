@@ -19,7 +19,7 @@ title: >
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
-tab2Target: experiences
+tab2Target: experience
 
 education:
   - content: >
