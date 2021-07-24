@@ -2,12 +2,19 @@
 enable: true
 topTitle: Academic & Professional Summary
 title: >
-  ## My Background
+  ## My Background 
 
-  Having fostered a sharp eye for the arising advances around me, 
-  I have consistently been enthusiastic about exploring computer 
-  science and data science since the time I was a child. This led me to choose computer science studies. 
+  The notion of how computers can learn from the data and emulate human thinking is what 
+  I have consistently been enthusiastic about.To feed my cravings, I decided to pursue 
+  studies in Computer Science with a major in Data Science.
 
+
+  Considering my work experience, I have been working as 
+  Data Analyst at KINEIN MEDISYS. While studying, I  also worked 
+  as a __Research Intern__ for the Robotic Interaction for Assistance 
+  Training Dogs project at the Swinburne University of Technology. 
+  In the project, we utilized robotic algorithms for training the 
+  dogs and were awarded.
   
 tab1Name: Education
 tab2Name: Experiences
@@ -34,9 +41,14 @@ education:
   - content: >
       #### Diploma in Computer Science
 
-      • C, C++, Java, JavaScript, Assembly Language
+      • C
+      • C++ 
+      • Java 
+      • JavaScript 
+      • Assembly Language
       • Android app development
-      • OS configurations, Computer Hardware and Architecture
+      • OS configurations 
+      • Computer Hardware and Architecture
     time: 2013-2016
   - content: >
       #### Schooling
@@ -46,22 +58,69 @@ education:
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### KINEIN MEDISYS
+      
+      ###### Data Analyst
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      + Data reviewing and cleaning to ensure the quality of the data.
+      
+      + Analysing and summaries past sales data for management people.
+      
+      + Performed the market analysis to effectively achieve business objectives, increasing sales by 10%.
+      
+      + Tracked weekly sales data to chart whether we hit our financial goals.
+      
+      + Translating the data into actionable insights.
+      
+      + Prioritising the work and distribute evenly in team members.
+      
+      + Eliminating customer churn using churn prediction model.
+      
+      + Conducting forecasting using data to predict the future sales
+
+    time: Nov 2019-Present
   - content: >
-      #### Aperture Science 
+      #### Swinburne University of Technology
+      
+      ###### Research Intern
+            
+      + Undertook reporting of the project plans and activities.
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      + Helped to build the robotic software.
+      
+      + Carried out the extensive research in the field of dog training and robotics.
+
+      + Worked closely in the supervisor's team. 
+      
+      + Contributed to the project by planning and executing the deliverables.
+    time: Sep 2018 - Sep 2019
   - content: >
-      #### ACME Inc. 
+      #### Crust Pizza Co.
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      ###### Customer Service Representative
+
+      + Cash handling.
+
+      + Accepted customer complaints with full respect and solved it ASAP to make customer fully satisfied. 
+      
+      + Delivered the best customer experience.
+      
+      + Serving food to the Customers.
+      
+      + Taking orders via phone.
+      
+      + Occasionally, making pizzas.
+    time: May 2017 - Aug 2018
   - content: >
-      #### LexCorp 
+      #### BAPS Swaminarayan Sanstha
+      
+      ###### Meal Server & Carrier Guide (volunteering)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      + Served Meals to the visitors of the temple.
+
+      + Looked after general management of the temple.
+
+      + Gave carrier guidance of the queries like stream selection after year 12, computer science, IT etc.
+
+      + Motivated people for further education.
+    time: Aug 2014 - Oct 2016
