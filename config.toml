@@ -1,7 +1,7 @@
 baseURL = "https://www.patelrj.com"
 languageCode = "en-us"
 title = "Rj Patel Portfolio"
-paginate = 6
+paginate = 7
 theme = "portio"
 
 # Main Menu
@@ -38,9 +38,14 @@ url = "#service"
 weight = 5
 
 [[menu.main]]
+name = "Testimonials"
+url = "#testimonials"
+weight = 6
+
+[[menu.main]]
 name = "Contact Me"
 url = "#contact"
-weight = 6
+weight = 7
 
 
 [params]

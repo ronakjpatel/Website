@@ -1,0 +1,14 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People Say About Me?
+testimonial:
+  - name: G.M Patel 
+    comment: Ronak has grown as quickly as our business has, and his willingness to learn and take on these new responsibilities is something to be desired in any professional.
+    time: Dec 3, 2020
+    star: 5
+  - name: Dev 
+    comment: I have worked with many professionals in group, but Ronak was exceptional at his expertise in data analysis. He is definitely a team player. His work ethics are pristine and easily adjustable to any given situation. Thanks, mate! You made the project more smooth and successful.
+    time: Jan 21, 2020
+    star: 4
