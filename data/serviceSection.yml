@@ -10,37 +10,41 @@ service:
   - content: >
       #### Intellectual Curiosity 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I love to ask questions to myself all the time about scientific phenomena, which take place every day 
+      around us. Despite stopping there, I always strive to find out satisfactory answers. 
     image: images/service/curiosity.png
+  - content: >
+      #### Self Learning
+
+      To give enough explanation to my curious questions, I am always desirous to acquire new knowledge. Consequently, 
+      it gives me a feeling of accomplishment and a sense of purpose.
+    image: images/service/self_learning.png  
   - content: >
       #### Team Work 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I consider working in a team is the best way to solve problems 
+      more effectively in addition, it allows me to expose myself to team 
+      members' creative ideas and skills sets.
+
     image: images/service/teamwork.png
   - content: >
       #### Communication 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I communicate my ideas and thoughts in a simple yet precise way that makes the overall 
+      communication channel comfortable and easy to understand. 
     image: images/service/chat.png
   - content: >
       #### Critical Thinking 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I take care of all of the basic assumptions by active listening and evaluating different aspects from various 
+      points of view to develop worthy arguments supported by 
+      pieces of evidence.
     image: images/service/critical_thinking.png
   - content: >
       #### Problem Solving
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Identifying and researching about the problem statements puts me into a situation where I can apply a plethora of 
+      solutions iteratively and can decide which works best and solves the problem effectively.
     image: images/service/problem_solving.png
-  - content: >
-      #### Self Learning
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/self_learning.png
  
