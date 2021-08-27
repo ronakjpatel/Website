@@ -8,18 +8,6 @@ title: >
   enabling me to use my technical skills to their full extent.
 service:
   - content: >
-      #### Intellectual Curiosity 
-
-      I love to ask questions to myself all the time about scientific phenomena, which take place every day 
-      around us. Despite stopping there, I always strive to find out satisfactory answers. 
-    image: images/service/curiosity.png
-  - content: >
-      #### Self Learning
-
-      To give enough explanation to my curious questions, I am always desirous to acquire new knowledge. Consequently, 
-      it gives me a feeling of accomplishment and a sense of purpose.
-    image: images/service/self_learning.png  
-  - content: >
       #### Team Work 
 
       I consider working in a team is the best way to solve problems 
@@ -33,6 +21,19 @@ service:
       I communicate my ideas and thoughts in a simple yet precise way that makes the overall 
       communication channel comfortable and easy to understand. 
     image: images/service/chat.png
+  - content: >
+      #### Intellectual Curiosity 
+
+      I love to ask questions to myself all the time about scientific phenomena, which take place every day 
+      around us. Despite stopping there, I always strive to find out satisfactory answers. 
+    image: images/service/curiosity.png
+  - content: >
+      #### Self Learning
+
+      To give enough explanation to my curious questions, I am always desirous to acquire new knowledge. Consequently, 
+      it gives me a feeling of accomplishment and a sense of purpose.
+    image: images/service/self_learning.png  
+  
   - content: >
       #### Critical Thinking 
 
