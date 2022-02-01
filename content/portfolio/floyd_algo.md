@@ -1,7 +1,7 @@
 ---
 title: Floyd-Warshall Algorithm
 date: 
-thumbnail: images/portfolio/fw_Graph.png
+thumbnail: images/portfolio/Fl_w_algo.gif
 service: Floyd-Warshall Algorithm Implementation
 solution: I learned to implement this algorithm in Python and understood the time and space complexity to run the algorithm on any weighted graph.
 ---
