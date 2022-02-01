@@ -31,24 +31,24 @@ The Floyd-Warshall algorithm is an example of dynamic programming. It breaks the
 #### How it works ? 🤔
 
 At the heart of Floyd-Warshall is this function:
- *ShortestPath(i,j,k)*.
+ **ShortestPath(i,j,k)**.
 
-This function returns the shortest path from _A_ to _C_ using the vertices from 1 to _k_ in the graph. The vertices are individually numbered _1,2,...,k_.
+This function returns the shortest path from _A_ to _C_ using the vertices from _1_ to _k_ in the graph. The vertices are individually numbered _1,2,...,k_.
 
-There is a base case and a recursive case. The base case is that the shortest path is simply the weight of the edge connecting $ A $ and $ C $
+There is a base case and a recursive case. The base case is that the shortest path is simply the weight of the edge connecting _A_ and _C_
 
-$ ShortestPath(i, j, 0) = weight(i, j). $
+**ShortestPath(i, j, 0) = weight(i, j)**.
 
 
-The recursive case will take advantage of the **dynamic programming** nature of this problem. There are two possible answers for this function. Either the shortest path between $ i $ and $ j $ is the shortest known path, or it is the shortest known path from $ i $ to some vertex (let's call it $ z $) plus the shortest known path from $ z $ to $ j $ :
+The recursive case will take advantage of the **dynamic programming** nature of this problem. There are two possible answers for this function. Either the shortest path between _i_ and _j_ is the shortest known path, or it is the shortest known path from _i_ to some vertex (let's call it _z_) plus the shortest known path from _z_ to _j_ :
 
-$ ShortestPath (i, j, k) = min(ShortestPath(i, j, k-1), ShortestPath(i, k, k-1) + ShortestPath(k, j, k-1)) $.
+**ShortestPath (i, j, k) = min(ShortestPath(i, j, k-1), ShortestPath(i, k, k-1) + ShortestPath(k, j, k-1))**.
 
-Basically, what this function setup is asking this: "Is the vertex $ k $ an intermediate of our shortest path (any vertex in the path besides the first or the last)?"
+Basically, what this function setup is asking this: "Is the vertex _k_ an intermediate of our shortest path (any vertex in the path besides the first or the last)?"
 
-If $ k $ is not an intermediate vertex, then the shortest path from $ i $ to $ j $ using the vertices in $ {1,2,...,k−1} $ is also the shortest path using the vertices in $ {1,2,...,k} $.
+If _k_ is not an intermediate vertex, then the shortest path from _i_ to _j_ using the vertices in  _{1,2,...,k−1}_ is also the shortest path using the vertices in _{1,2,...,k}_.
 
-If $ k $ is an intermediate vertex, then the path can be broken down into two paths, each of which uses the vertices in $ {1,2,...,k−1} $ to make a path that uses all vertices in $ {1,2,...,k} $. That is because the vertex $k$ is the middle point.
+If _k_ is an intermediate vertex, then the path can be broken down into two paths, each of which uses the vertices in _{1,2,...,k−1}_ to make a path that uses all vertices in _{1,2,...,k}_. That is because the vertex _k_ is the middle point.
 
 
 
