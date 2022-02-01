@@ -24,16 +24,16 @@ The Floyd-Warshall algorithm is an example of dynamic programming. It breaks the
 
 #### Time and Space Complexity Analysis 🧐
 
-**Time Complexity** ⏰ : $O(n^3)$
-**Space Complexity** 📁 : $O(n^2)$
+**Time Complexity** ⏰ : _O(n^3)_
+**Space Complexity** 📁 : _O(n^2)_
 
 
 #### How it works ? 🤔
 
 At the heart of Floyd-Warshall is this function:
-$ ShortestPath(i,j,k) $.
+ *ShortestPath(i,j,k)*.
 
-This function returns the shortest path from $ A $ to $ C $ using the vertices from 1 to $ k $ in the graph. The vertices are individually numbered $ 1,2,...,k $.
+This function returns the shortest path from _A_ to _C_ using the vertices from 1 to _k_ in the graph. The vertices are individually numbered _1,2,...,k_.
 
 There is a base case and a recursive case. The base case is that the shortest path is simply the weight of the edge connecting $ A $ and $ C $
 
