@@ -3,6 +3,7 @@ title: Floyd-Warshall Algorithm
 date: 
 thumbnail: images/portfolio/fw_Graph.png
 service: Floyd-Warshall Algorithm Implementation
+solution: 
 ---
 
 ## What is Floyd-Warshall Algorithm? 🔥🔥
