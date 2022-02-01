@@ -1,11 +1,11 @@
 ---
 title: Floyd-Warshall Algorithm
 date: 
-thumbnail: images/portfolio/fw_Graph.png
+thumbnail: images/portfolio/fw_Graph.jpg
 service: Floyd-Warshall Algorithm Implementation
 ---
 
-## What is Floyd-Warshall Algorithm? 🔥🔥
+#### What is Floyd-Warshall Algorithm? 🔥🔥
 
 The Floyd-Warshall algorithm is a shortest path algorithm for graphs. It computes the shortest distances between every pair of vertices in the input graph.
 
@@ -14,7 +14,7 @@ The Floyd-Warshall algorithm is an example of dynamic programming. It breaks the
 
 
 
-## Usages 🌟
+#### Usages 🌟
 
 * Floyd Warshall Algorithm helps to find the inversion of real matrices.
 * It helps in testing whether the undirected graph is bipartite.
@@ -22,13 +22,13 @@ The Floyd-Warshall algorithm is an example of dynamic programming. It breaks the
 * Different versions of the Floyd Warshall algorithm help to find the transitive closure of a directed graph.
 * This algorithm helps to find the regular expression the are accepted by finite automata.
 
-## Time and Space Complexity Analysis 🧐
+#### Time and Space Complexity Analysis 🧐
 
 **Time Complexity** ⏰ : $O(n^3)$
 **Space Complexity** 📁 : $O(n^2)$
 
 
-## How it works ? 🤔
+#### How it works ? 🤔
 
 At the heart of Floyd-Warshall is this function:
 $ ShortestPath(i,j,k) $.
@@ -48,7 +48,7 @@ Basically, what this function setup is asking this: "Is the vertex $ k $ an inte
 
 If $ k $ is not an intermediate vertex, then the shortest path from $ i $ to $ j $ using the vertices in $ {1,2,...,k−1} $ is also the shortest path using the vertices in $ {1,2,...,k} $.
 
-If $ k $ is an intermediate vertex, then the path can be broken down into two paths, each of which uses the vertices in $ {1,2,...,k−1} $ to make a path that uses all vertices in $ {1,2,...,k} $. That is because the vertex $ k $ is the middle point.
+If $ k $ is an intermediate vertex, then the path can be broken down into two paths, each of which uses the vertices in $ {1,2,...,k−1} $ to make a path that uses all vertices in $ {1,2,...,k} $. That is because the vertex $k$ is the middle point.
 
 
 
