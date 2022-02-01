@@ -1,14 +1,14 @@
 ---
 title: Floyd-Warshall Algorithm
 date: 
-thumbnail: images/portfolio/fw_Graph.jpg
+thumbnail: images/portfolio/fw_Graph.png
 service: Floyd-Warshall Algorithm Implementation
-solution: Learned about the algorithm. 
+solution: I learned to implement this algorithm in Python and understood the time and space complexity to run the algorithm on any weighted graph.
 ---
 
 #### What is Floyd-Warshall Algorithm? 🔥🔥
 
-The Floyd-Warshall algorithm is a shortest path algorithm for graphs. It computes the shortest distances between every pair of vertices in the input graph.
+The Floyd-Warshall algorithm is a shortest path algorithm for graphs. It computes the shortest distances between every pair of vertices in the input graph in other words this algorithms finds the transitive closure of the relation _R_ on to the set _S_.
 
 
 The Floyd-Warshall algorithm is an example of dynamic programming. It breaks the problem down into smaller subproblems, then combines the answers to those subproblems to solve the big, initial problem. The idea is this: either the quickest path from A to C is the quickest path found so far from A to C, or it's the quickest path from A to B plus the quickest path from B to C.
