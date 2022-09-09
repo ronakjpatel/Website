@@ -1,0 +1,142 @@
+---
+enable: true
+topTitle: Academic & Professional Summary
+title: >
+  ## My Background
+
+  The notion of how computers can learn from the data and emulate human thinking is what I have consistently been enthusiastic about. To feed my cravings, 
+  I decided to pursue studies in Computer Science with a major in Data Science.
+ 
+ 
+  Most recently, I have worked as an Operational Team Analyst at  Bunnings Warehouse.
+  Before that I gained the Junior Data Analyst experience at the Simplior Technologies. While studying, I  also worked as a __Research Intern__ for the Robotic Interaction for Assistance Training Dogs project at the Swinburne University of Technology.
+
+  
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+
+  - content: >
+     #### Master of Applied Computer Science
+
+     ##### Concordia University, Montreal, QC
+
+
+     ###### Focuses
+
+     •	Advance Computer Vision
+
+
+     •	Algorithm Design and Analysis
+    
+
+    time: 2022-2024 (in progress)
+
+
+  - content: >
+      #### Bachelor of Computer Science Major in Data Science
+
+      ##### Swinburne University of Technology, Australia
+
+
+      ###### Focuses
+
+      •	Data Structures
+
+
+      •	Software Development
+
+
+      •	AI/Machine learning
+
+
+      •	Data Visualization (Tableau, D3.js)
+
+
+      •	Business Strategy and Knowledge Management
+
+
+    time: 2017-2020
+  - content: >
+      #### Diploma in Computer Science
+
+      ##### Gujarat Technological University
+
+      ###### Focuses
+
+      • Object-Oriented Programming 
+
+
+      • Dynamic Web Development
+
+
+      • Assembly Language Programming
+
+
+      • Android App Development
+
+
+      • Operating Systems 
+
+
+      • Computer Hardware and Architecture
+
+
+    time: 2013-2016
+  - content: >
+      #### Schooling
+
+    
+    time: 2002-2012
+
+experience:
+
+  - content: >
+      #### Bunnings Warehouse Australia.
+
+      ###### Operations Team Analyst
+
+      + Delivered the highest possible customer satisfaction experience by thoroughly listening to the needs and effectively communicating appropriate solutions. Proven through the number of positive feedback positive feedback that I received during my job tenure.
+
+      + Reduced the amount of money spent on casual employees by putting the most efficient rostering table in place.  
+      
+      + As a part of the SIT(safety improvement team), I ensured the right execution of the safety procedures and practices at all times, resulting in the lowest number of workplace injuries and accidents.
+      
+      + Developed the efficacious retail location strategies by having a solid grasp of the customer’s overall behavior and retail shopping pattern which in turn surpassed the previous year’s sales figures.
+      
+      + Increased the customer retention rate significantly with the help of attending and leading the business strategy improvement meetings with co-ordinator and our team members. Frequently provided training and gave all of the product specific knowledge to the freshers to deliver the best possible tailored customer service experience to each individual.
+  
+    time: Sep 2021 - Aug 2022
+  
+  - content: >
+      #### Swinburne University of Technology
+      
+      ###### Research Intern
+            
+      + Undertook reporting of the project plans and activities.
+
+      + Helped to build the robotic software.
+      
+      + Carried out the extensive research in the field of dog training and robotics.
+
+      + Worked with one of the advanced research humanoid robot "NAO". 
+      
+      + Languages and Software used in projects were Python, Choregraphe, NAOqi SDK.
+    time: Sep 2018 - Sep 2019
+
+  - content: >
+      #### BAPS Swaminarayan Sanstha
+      
+      ###### Meal Server & Carrier Guide (volunteering)
+
+      + Served Meals to the visitors of the temple.
+
+      + Looked after general management of the temple.
+
+      + Gave carrier guidance of the queries like stream selection after year 12, computer science, IT etc.
+
+      + Motivated people for further education.
+    time: Aug 2014 - Oct 2016

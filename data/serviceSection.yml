@@ -1,0 +1,48 @@
+---
+enable: true
+topTitle: Personality
+title: >
+  ## Core Competencies🎨
+
+  Core competencies are constantly helping me to improve my personality. Consequently, 
+  enabling me to use my technical skills to their full extent.
+service:
+  - content: >
+      #### Team Work 
+
+      I consider working in a team is the best way to solve complex problems. 
+      It allows me to indulge into other's innovative ideas and beliefs.
+
+    image: images/service/teamwork.png
+  - content: >
+      #### Communication 
+
+      I communicate my ideas and thoughts in a simple yet precise way that makes the overall 
+      communication channel comfortable and easy to understand. 
+    image: images/service/chat.png
+  - content: >
+      #### Intellectual Curiosity 
+
+      I always love to ask questions to myself almost about anything.  
+      Despite stopping there, I always strive to find out satisfactory answers. 
+    image: images/service/curiosity.png
+  - content: >
+      #### Self Learning
+
+      I always strive to acquire knowledge and to turn it into wisdom. My self-learning ability gives me the feeling of accomplishment and a sense of purpose.
+    image: images/service/self_learning.png  
+  
+  - content: >
+      #### Critical Thinking 
+
+      I only form my judgment when I fully analyze available facts, evidence, observations, and arguments. I respect evidence, open-mindedness and logical 
+      reasoning when it comes down to the critical thinking process. 
+    image: images/service/critical_thinking.png
+  - content: >
+      #### Problem Solving
+
+      Identifying and researching about the problem statements puts me into a situation where I can apply a plethora of the potential solutions iteratively and can 
+      decide which works best and solves the problem effectively.
+    image: images/service/problem_solving.png
+
+ 

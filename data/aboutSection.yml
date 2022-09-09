@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me 🔦
+
+  I strongly believe that my passion, self-learning 
+  capability and my full commitment will make the journey more productive.
+content: >
+  ### I foster innovative solutions to real-world challenges.
+
+  Energetic, passionate __IT Professional__ with an excellent understanding of programming fundamentals, data analysis techniques, data visualization platforms, machine learning, 
+  deep learning, is committed to contribute in every possible 
+  manner and continuously learn from the experience for the growth 
+  of self and organization along with an eye for delivering the best and impactful experience to end-users.
+  
+
+button1Name: Hire me
+button2Name: See Resume
+button3Name: Download Resume
+button1Target: contact
+button2Target: docs/Ronak_CV.pdf
+image: images/about/MyPic1.png

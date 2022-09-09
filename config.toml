@@ -1,0 +1,76 @@
+baseURL = "https://www.patelrj.com"
+languageCode = "en-us"
+title = "Rj Patel Portfolio"
+paginate = 7
+theme = "portio"
+
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+
+[[menu.main]]
+name = "About Me"
+url = "#about"
+weight = 2
+
+
+
+[[menu.main]]
+name = "Projects"
+url = "#portfolio"
+weight = 3
+
+#[[menu.main]]
+#name = "Projects"
+#url = "#blog"
+#weight = 3
+
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 4
+
+[[menu.main]]
+name = "Personality"
+url = "#service"
+weight = 5
+
+[[menu.main]]
+name = "Testimonials"
+url = "#testimonials"
+weight = 6
+
+[[menu.main]]
+name = "Contact Me"
+url = "#contact"
+weight = 7
+
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All Data observed :) © RJ 2022"
+footerLogo = "images/contact/footer_img.svg"
+footerLogo2 = "images/data.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.svg"
+
+[params.address]
+email = "rjpatel7991@gmail.com"
+openingHours = ""
+phone = "+(1) 343 777 3935"
+
+
+# Social icons
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/ronak-p"
+weight = 2
+
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/profile.php?id=100005741973880"
+weight = 1

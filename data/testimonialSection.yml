@@ -1,0 +1,25 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People Say About Me ? 🗣 ️
+testimonial:
+  - name: Jai Farrell 
+    comment: I had the pleasure of working with Ronak on a Robotics project. He showed true leadership and really understood how to get the best out of people and technology. Ronak is a natural leader and a great team player, he will be an asset to any company.
+    time: Aug 27, 2021
+    star: 5
+  - name: G.M Patel 
+    comment: Ronak has grown as quickly as our business has, and his willingness to learn and take on these new responsibilities is something to be desired in any professional.
+    time: Dec 3, 2020
+    star: 5
+  - name: Dev 
+    comment: I have worked with many professionals in group, but Ronak was exceptional at his expertise in data analysis. He is definitely a team player. His work ethics are pristine and easily adjustable to any given situation. Thanks, mate! You made the project more smooth and successful.
+    time: Jan 21, 2020
+    star: 4
+  - name: Dhara 
+    comment: Excellent knowledge, full of creativity with out of box thinking and no exception on Quality and hard work.
+    time: Aug 20, 2019
+    star: 5
+
+
+    
