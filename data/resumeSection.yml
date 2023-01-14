@@ -4,13 +4,8 @@ topTitle: Academic & Professional Summary
 title: >
   ## My Background
 
-  The notion of how computers can learn from the data and emulate human thinking is what I have consistently been enthusiastic about. To feed my cravings, 
-  I decided to pursue studies in Computer Science with a major in Data Science.
+  The idea of how computers can learn from data and mimic human cognition has always been a source of great interest to me. To satisfy my curiosity, I chose to study Computer Science with a focus on Data Science.
  
- 
-  Most recently, I have worked as an Operational Team Analyst at  Bunnings Warehouse.
-  Before that I gained the Junior Data Analyst experience at the Simplior Technologies. While studying, I  also worked as a __Research Intern__ for the Robotic Interaction for Assistance Training Dogs project at the Swinburne University of Technology.
-
   
 tab1Name: Education
 tab2Name: Experiences
@@ -27,7 +22,10 @@ education:
 
      ###### Focuses
 
-     •	Advance Computer Vision
+     •	Machine Learning
+
+
+     •	Data Structures
 
 
      •	Algorithm Design and Analysis
@@ -44,9 +42,7 @@ education:
 
       ###### Focuses
 
-      •	Data Structures
-
-
+     
       •	Software Development
 
 
@@ -99,33 +95,18 @@ experience:
 
       ###### Operations Team Analyst
 
-      + Delivered the highest possible customer satisfaction experience by thoroughly listening to the needs and effectively communicating appropriate solutions. Proven through the number of positive feedback positive feedback that I received during my job tenure.
+      + Delivered outstanding customer satisfaction by actively listening to customers' needs and effectively communicating appropriate solutions, as evidenced by the positive feedback I received.
 
       + Reduced the amount of money spent on casual employees by putting the most efficient rostering table in place.  
       
-      + As a part of the SIT(safety improvement team), I ensured the right execution of the safety procedures and practices at all times, resulting in the lowest number of workplace injuries and accidents.
+      + Contributed to the Safety Improvement Team (SIT) to ensure proper execution of safety procedures, resulting in a low rate of workplace injuries and accidents.
       
-      + Developed the efficacious retail location strategies by having a solid grasp of the customer’s overall behavior and retail shopping pattern which in turn surpassed the previous year’s sales figures.
+      + Developed effective retail location strategies by understanding customer behaviour and shopping patterns, leading to an increase in sales figures compared to the previous year.
       
-      + Increased the customer retention rate significantly with the help of attending and leading the business strategy improvement meetings with co-ordinator and our team members. Frequently provided training and gave all of the product specific knowledge to the freshers to deliver the best possible tailored customer service experience to each individual.
+      + Contributed to the increase of customer retention rate by participating in and leading business strategy improvement meetings, providing training to new employees and ensuring they have the necessary product knowledge to deliver tailored customer service experiences.
   
     time: Sep 2021 - Aug 2022
   
-  - content: >
-      #### Swinburne University of Technology
-      
-      ###### Research Intern
-            
-      + Undertook reporting of the project plans and activities.
-
-      + Helped to build the robotic software.
-      
-      + Carried out the extensive research in the field of dog training and robotics.
-
-      + Worked with one of the advanced research humanoid robot "NAO". 
-      
-      + Languages and Software used in projects were Python, Choregraphe, NAOqi SDK.
-    time: Sep 2018 - Sep 2019
 
   - content: >
       #### BAPS Swaminarayan Sanstha
